@@ -5,7 +5,7 @@
 利用通訊軟體留言，給連結為主
 也可以約時間直接線上會議，一般常見使用[teamviewer](https://www.teamviewer.com/tw/) 或zoom等線上會議軟體。
 
-###使用Gist
+### 使用Gist
 [gist](https://gist.github.com/) 是 Github 的一個服務，且任何人都可以使用這個服務，不論你是否擁有 Github 帳號。以開發者的角度來說，最基本的功能就是可以分享片段的原始碼。有別於 Github 的 Repository，Gist 可以只分享專案中的某一個小檔案中的程式碼，且擁有私人的選項，讓別人不會搜尋到你的 Gist。Gist 是免費的服務。
 
 - 以上摘錄自https://ithelp.ithome.com.tw/articles/10206233
@@ -19,7 +19,7 @@
 -https://codepen.io/
 -https://jsfiddle.net/
 -https://jsbin.com/
-###使用Visual Studio Code Live Share
+### 使用Visual Studio Code Live Share
 -VS Code協作分享工具 Live Share 使用教學
 -VSCode live share 使用入門，從安裝到多人協作寫code
 -影片：Remote collaboration in Visual Studio Code 
