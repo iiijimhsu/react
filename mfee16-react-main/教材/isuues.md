@@ -22,4 +22,4 @@ https://jsbin.com/
 使用Visual Studio Code Live Share
 VS Code協作分享工具 Live Share 使用教學
 VSCode live share 使用入門，從安裝到多人協作寫code
-影片：Remote collaboration in Visual Studio Code
+影片：Remote collaboration in Visual Studio Code 
