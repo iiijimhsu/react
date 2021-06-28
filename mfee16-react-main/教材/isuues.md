@@ -20,6 +20,6 @@
 -https://jsfiddle.net/
 -https://jsbin.com/
 ### 使用Visual Studio Code Live Share
--VS Code協作分享工具 Live Share 使用教學
--VSCode live share 使用入門，從安裝到多人協作寫code
--影片：Remote collaboration in Visual Studio Code 
+-VS Code協作分享工具 Live Share 使用教學(https://xenby.com/b/234-%E6%95%99%E5%AD%B8-vs-code%E5%8D%94%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B7%A5%E5%85%B7-live-share-%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8)
+-VSCode live share 使用入門，從安裝到多人協作寫code(https://xiaosean.github.io/vscode/2018-05-19-VSCode-Live-share/)
+-影片：Remote collaboration in Visual Studio Code (https://www.youtube.com/watch?v=A2ceblXTBBc)
