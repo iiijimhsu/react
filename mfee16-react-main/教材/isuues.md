@@ -1,4 +1,4 @@
-使用line之類的通訊軟體
+# 使用line之類的通訊軟體
 Eddy老師的連絡方式：https://eddychang.me/about
 
 結合以下能展示你的程式碼的工具，如gist或自己開一個github的issue或repo(儲存庫)
